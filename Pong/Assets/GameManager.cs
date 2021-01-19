@@ -31,4 +31,13 @@ public class GameManager : MonoBehaviour
         player1Paddle.GetComponent<paddle>().Reset();
         player2Paddle.GetComponent<paddle>().Reset();
     }
+
+    void Update()
+    {
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+    }
+
 }
