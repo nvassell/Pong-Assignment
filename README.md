@@ -22,7 +22,7 @@ CS 383 - Pong Assignment
     - If you are downloading, make sure you follow the directions carefully before continuing the instructions.
 4. In the top-left corner select `file` and click `open project`
 5. On the left-hand side select `add`.
-6. Find the `Pong-Assignment` repository downloaed from BBLearn or Github and make sure you select an uncompressed version of the repository.
+6. Find the `Pong-Assignment` repository download from BBLearn or Github and make sure you select an uncompressed version of the repository.
 7. After loading the Project:  
     - In the top left corner select `file -> Build & Run`
 8. Upon completioin of these steps unity should compile all of the necessary files and create a nice easy `Pong.exe`.
