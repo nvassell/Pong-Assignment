@@ -1,6 +1,5 @@
 # Pong-Assignment
-CS 383 - Pong Assignment (Added)
-
+CS 383 - Pong Assignment 
 ## Quick Launch
 - Double click `Pong.exe` and it will run. 
     - The game is set to 1920x1080 but will scale down with smaller monitors.
