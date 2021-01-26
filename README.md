@@ -1,5 +1,5 @@
 # Pong-Assignment
-CS 383 - Pong Assignment
+CS 383 - Pong Assignment (Added)
 
 ## Quick Launch
 - Double click `Pong.exe` and it will run. 
